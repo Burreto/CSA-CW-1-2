@@ -1,0 +1,14 @@
+public class Geometry
+{
+    public static void main (String[] args)
+    {
+        int sides = 7;
+        System.out.println("A Heptagon has " + sides + " sides.");
+        
+        sides = 10;
+        System.out.println("A Decagon has " + sides + " sides.");
+        
+        sides = 12;
+        System.out.println("A Dodecagon has " + sides + " sides.");
+    }
+}
